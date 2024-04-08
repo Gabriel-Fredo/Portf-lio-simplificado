@@ -81,6 +81,7 @@ body {
 .home .redes-sociais {
   display: flex;
   gap: 20px;
+  justify-content: center;
 }
 
 .home .redes-sociais a i {
