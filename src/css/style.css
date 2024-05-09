@@ -102,8 +102,8 @@ body {
 }
 
 .home .container-foto .foto {
-  max-height: 341px;
-  max-width: 450px;
+  max-height: 100%;
+  max-width: 400px;
   border-radius: 50%;
 }
 
